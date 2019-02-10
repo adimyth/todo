@@ -9,8 +9,7 @@ In the project directory, you can run:
 
 ### Structure
 Component Structure
-![Component Structure]("/home/aditya/todo/public/component_structure.jpg" "Component Structure")
-
+![Component Structure](https://github.com/adimyth/todo/blob/master/public/component_structure.jpg)
 
 ### Run localy
 Clone the repo then run

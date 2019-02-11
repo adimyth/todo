@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App].
 
 ## ToDo App
 
-A basic todo app.
+A basic react todo app.
 You can view the app [here](https://stark-brook-21511.herokuapp.com/).
 
 In the project directory, you can run:

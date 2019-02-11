@@ -22,8 +22,12 @@ class App extends Component {
 	handleNewInput = event => {
 		console.log("New task added");
 		event.preventDefault();
+		if (this.state.newItem.length) {
+			this.setState({
+				itemLists: [this.state.newItem, ...this.state.itemLists]
+			});
+		}
 		this.setState({
-			itemLists: [this.state.newItem, ...this.state.itemLists],
 			newItem: ""
 		});
 	};
